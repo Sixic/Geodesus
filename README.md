@@ -1,12 +1,4 @@
 # Geodesus
-Globe editor
 
-Early development stage.
-
-Executable app is in builds folder.
-
-Code is in GDScript, using Godot Engine.
-
-When launching, keep the subdivision level below 10. Anything else can easily crash your app. Recommended below 8.
-Reference Earth is for painting purposes. It can be seen by selecting Transparent space as biome in tandem with non-water elevation. Water elevation tiles always default to 'None" biome.
-Everything else should be self-explanatory.
+Geodesus: A personal coding project for dual geodesic Earth visualization.
+Note: The source code is provided here to demonstrate logic and script structure. For security and size reasons, the high-res textures and compiled binaries are hosted separately.
